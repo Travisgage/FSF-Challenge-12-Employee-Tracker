@@ -29,7 +29,7 @@ Update Employee Role: Update an existing employee's role by selecting the employ
 
 Use the arrow keys to navigate the menu and select an option with enter. Follow the prompts to enter the necessary information or perform the desired action. 
 
-A walkthrough video demonstrating the functionality of the Employee Tracker is available [here](https://drive.google.com/file/d/1fdi_wP6z7xNg0SYEUliTonhG9Q9TSHMO/view?usp=drive_link)
+A walkthrough video demonstrating use of this Tracker is available [here](https://drive.google.com/file/d/1fdi_wP6z7xNg0SYEUliTonhG9Q9TSHMO/view?usp=drive_link)
 
 ![Screenshot of running application](./assets/images/Challenge%2012%20screenshot.png)
 
