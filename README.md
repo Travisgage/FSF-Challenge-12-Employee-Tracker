@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-The following Tracker is a command-line application that helps business owners manage their company's employee information efficiently, including relevant information on employee name, department, role, and manager. Using this application, you can easily view and manage departments, roles, and employee names. This project uses Node.js, Inquirer, and PostgreSQL to build a content management system (CMS) that facilitates interaction with the company's database.
+The following Tracker is a command-line application that helps business owners manage their company's employee information efficiently, including relevant information on employee name, department, role, and manager. Using this application, you can easily view and manage departments, roles, and employee names. This project uses Node.js, Inquirer, and PostgreSQL to build a content management system (CMS) that enables interaction with and management of the database for Burritos, Inc.
 
 ## Table of Contents
 * [Installation](#installation)
