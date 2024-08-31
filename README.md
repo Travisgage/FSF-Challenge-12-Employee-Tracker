@@ -37,7 +37,7 @@ A walkthrough video demonstrating use of this Tracker is available [here](https:
 This project is licensed under the MIT license. Please feel free to read the license in full detail [here](https://opensource.org/license/mit)
 
 ## Contributing
-Please contact me with contributions to the repo.
+Please contact me for contributions to the repo.
 
 ## Tests
 N/A
